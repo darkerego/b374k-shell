@@ -1,4 +1,0 @@
-#labels Featured
-= Installation =
-
-Add your content here.
