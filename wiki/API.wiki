@@ -31,7 +31,7 @@ http://www.myserver3.com/b374k.php,0de664ecd2be02cdd54234a0d1229b
 http://www.myserver4.com/b374k.php,0de664ecd2be02cdd54234a0d1229b
 }}}
 
-Create a file 'mass.php' and open it in browser
+Create a file _mass.php_ and open it in browser
 {{{
 <?php
 set_time_limit(0);
