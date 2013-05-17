@@ -67,7 +67,6 @@ else $result = "error : unable to open file ".$list_file;
 ?><!DOCTYPE html>
 <head>
 <title>b374k mass control</title>
-<link href="http://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet" type="text/css">
 <style type="text/css">
 body{
 	background:#000000;
