@@ -4,9 +4,11 @@
 == Introduction ==
 From version 2.3 you can use the API to remotely control the shell.
 Parameter
+{{{
 s_pass : your shell password in md5 format
 cmd : to execute shell command (in base64 format)
 eval : to evalute php code (in base64 format)
+}}}
 
 example 1 :
 {{{
