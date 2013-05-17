@@ -18,7 +18,7 @@ This example use password _b374k_ in md5 format which is _0de664ecd2be02cdd54234
 
 example 2 :
 {{{
-http://www.myserver.com/b374k.php?s_pass=0de664ecd2be02cdd54234a0d1229b43eval=cGhwaW5mbygpOw==
+http://www.myserver.com/b374k.php?s_pass=0de664ecd2be02cdd54234a0d1229b43&eval=cGhwaW5mbygpOw==
 }}}
 This example use password _b374k_ in md5 format which is _0de664ecd2be02cdd54234a0d1229b43_ and send php code _phpinfo();_ which is _cGhwaW5mbygpOw==_ in base64 format
 
