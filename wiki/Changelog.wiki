@@ -1,4 +1,17 @@
 #labels Featured
+2.7
+ * sorting by date fixed
+ * performance improvements
+ * download select box in explorer changed to single link to download
+ * button added: scroll to top and scroll to bottom
+ * improved hex editor
+ * total selected items
+ * magic quotes gpc problem fixed
+ * upload multiple files
+ * when editing files, newlines will be detected automatically
+ * fix bug with query parsing
+ * many other bugs fixed (thanks to all who reported bugs)
+
 2.6
  * script execution support node.js
  * added compress and uncompress function in explorer
