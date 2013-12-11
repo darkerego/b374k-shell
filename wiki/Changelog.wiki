@@ -1,5 +1,5 @@
 #labels Featured
-note : as features is added one by one, there are inconsistency between codes, need to rewrite from scratch for version 3.x (gonna do coding when have free time)
+note : as new features is added one by one, there are inconsistency between codes, need to rewrite from scratch for version 3.x (gonna do coding when have free time)
 
 2.8
  * resolve problem where system is using nodejs instead of node
